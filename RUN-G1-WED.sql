@@ -1,10 +1,6 @@
---Neha Ramachandar
---Mallika Goyal
---Rishabh Rao
+--SQL_Project
+--Diving_into_the_Anime-Verse
 --Bharath Reddy Chada
---Prakash Reddy Padamati
---Abhilash Tipirneni
---Omer Mohammed
 
 ---------------------------------------------------------------------------------------------------
 
